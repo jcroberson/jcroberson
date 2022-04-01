@@ -6,7 +6,7 @@ I'm currently investigating simple fluid simulations and various forms of visual
 
 ### About Me
 
-Outside of class, I enjoy reading, playing tennis (or just about any sport), watching movies, and, of course, coding. I've had work experience in a variety of fields, including as a tennis coach, camp counselor, and brain cancer researcher. I'm also a commited follower of Christ. 
+Outside of class, I enjoy reading, playing tennis (or just about any sport), watching movies, and, of course, coding. I also love making and appreciating various types of art, including painting, music and mebroidery. I've had work experience in a variety of fields, including as a tennis coach, camp counselor, and brain cancer researcher. I'm also a commited follower of Christ. 
 
 >Be watchful, stand firm in the faith, act like men, be strong. Let all that you do be done in love. 
 >
