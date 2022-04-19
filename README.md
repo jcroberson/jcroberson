@@ -1,8 +1,8 @@
 ### Howdy!
 
-My name is J.C. Roberson, and I'm a biomedical engineering student at Texas A&M! I enjoy coding outside of classes, and this profile is a place for me to store and share my projects. I'm most proficient in python, but am in the process of learning C#.
+My name is J.C. Roberson, and I'm a biomedical engineering student at Texas A&M! I enjoy coding outside of classes, and this profile is a place for me to store and share my projects. I'm most proficient in python, but am in the process of learning html, css, and javascript.
 
-I'm currently investigating simple fluid simulations and various forms of visualization using code. 
+I'm currently investigating simple fluid simulations and various forms of procedural generation. 
 
 ### About Me
 
